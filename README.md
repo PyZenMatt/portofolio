@@ -16,8 +16,8 @@ Here are some project ideas I plan to develop:
 # Genius Lyrics Scraper 🎵
 A Python GUI application to scrape song lyrics from Genius.com, with multi-threading support and export to CSV.
 
-### 📚 Python Library System
-A book management system with borrowing and return features.
+### 📚 PDF to Image Converter
+A GUI application to convert PDF files to images (PNG, JPEG, TIFF)
 
 ### 📝 Django Blog
 A complete web application for publishing articles and content.
